@@ -1,0 +1,8 @@
+Flask
+torch
+torchvision
+timm
+opencv-python
+numpy
+Pillow
+werkzeug
